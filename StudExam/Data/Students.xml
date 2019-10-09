@@ -1,0 +1,303 @@
+<?xml version="1.0" standalone="yes"?>
+<StudentsSet>
+  <Studs>
+    <ID>1</ID>
+    <Name>Charlie Parker</Name>
+    <Phone>123-4455</Phone>
+    <Addr>Broadway, 52a</Addr>
+  </Studs>
+  <Studs>
+    <ID>2</ID>
+    <Name>Alex Black</Name>
+    <Phone>555-1122</Phone>
+    <Addr>5-th Avenue, 74</Addr>
+  </Studs>
+  <Studs>
+    <ID>3</ID>
+    <Name>Andy Williams</Name>
+    <Phone>430-5125</Phone>
+    <Addr>Back st., 22</Addr>
+  </Studs>
+  <Studs>
+    <ID>4</ID>
+    <Name>Charley Mingus</Name>
+    <Phone>230-1466</Phone>
+    <Addr>Hi st., 30</Addr>
+  </Studs>
+  <Studs>
+    <ID>5</ID>
+    <Name>Chet Baker</Name>
+    <Phone>320-8656</Phone>
+    <Addr>Howard st., 15</Addr>
+  </Studs>
+  <Studs>
+    <ID>6</ID>
+    <Name>Lou Rowles</Name>
+    <Phone>552-4233</Phone>
+    <Addr>Basin st., 10</Addr>
+  </Studs>
+  <Exam>
+    <ID>53648</ID>
+    <StudID>1</StudID>
+    <Course>Math</Course>
+    <Credit>1</Credit>
+    <Mark>3</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>2595</ID>
+    <StudID>1</StudID>
+    <Course>Mechanics</Course>
+    <Credit>1</Credit>
+    <Mark>8</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>34549</ID>
+    <StudID>1</StudID>
+    <Course>Physics</Course>
+    <Credit>8</Credit>
+    <Mark>5</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>42367</ID>
+    <StudID>1</StudID>
+    <Course>English</Course>
+    <Credit>2</Credit>
+    <Mark>8</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>5019</ID>
+    <StudID>1</StudID>
+    <Course>Oracle</Course>
+    <Credit>2</Credit>
+    <Mark>8</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>61249</ID>
+    <StudID>1</StudID>
+    <Course>OpenGL</Course>
+    <Credit>1</Credit>
+    <Mark>3</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>13434</ID>
+    <StudID>1</StudID>
+    <Course>History</Course>
+    <Credit>8</Credit>
+    <Mark>2</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>61725</ID>
+    <StudID>2</StudID>
+    <Course>English</Course>
+    <Credit>5</Credit>
+    <Mark>3</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>23778</ID>
+    <StudID>2</StudID>
+    <Course>Oracle</Course>
+    <Credit>4</Credit>
+    <Mark>6</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>54530</ID>
+    <StudID>2</StudID>
+    <Course>OpenGL</Course>
+    <Credit>3</Credit>
+    <Mark>6</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>57450</ID>
+    <StudID>2</StudID>
+    <Course>History</Course>
+    <Credit>2</Credit>
+    <Mark>8</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>47188</ID>
+    <StudID>3</StudID>
+    <Course>Math</Course>
+    <Credit>1</Credit>
+    <Mark>7</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>62818</ID>
+    <StudID>3</StudID>
+    <Course>Mechanics</Course>
+    <Credit>0</Credit>
+    <Mark>1</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>57208</ID>
+    <StudID>3</StudID>
+    <Course>English</Course>
+    <Credit>1</Credit>
+    <Mark>4</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>64309</ID>
+    <StudID>3</StudID>
+    <Course>Oracle</Course>
+    <Credit>7</Credit>
+    <Mark>9</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>46608</ID>
+    <StudID>3</StudID>
+    <Course>OpenGL</Course>
+    <Credit>6</Credit>
+    <Mark>2</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>46506</ID>
+    <StudID>3</StudID>
+    <Course>History</Course>
+    <Credit>4</Credit>
+    <Mark>4</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>42177</ID>
+    <StudID>4</StudID>
+    <Course>Math</Course>
+    <Credit>0</Credit>
+    <Mark>5</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>54659</ID>
+    <StudID>4</StudID>
+    <Course>Mechanics</Course>
+    <Credit>4</Credit>
+    <Mark>9</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>30907</ID>
+    <StudID>4</StudID>
+    <Course>English</Course>
+    <Credit>9</Credit>
+    <Mark>4</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>9918</ID>
+    <StudID>4</StudID>
+    <Course>Oracle</Course>
+    <Credit>8</Credit>
+    <Mark>3</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>57761</ID>
+    <StudID>4</StudID>
+    <Course>OpenGL</Course>
+    <Credit>4</Credit>
+    <Mark>2</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>24451</ID>
+    <StudID>4</StudID>
+    <Course>History</Course>
+    <Credit>8</Credit>
+    <Mark>5</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>9319</ID>
+    <StudID>5</StudID>
+    <Course>Math</Course>
+    <Credit>1</Credit>
+    <Mark>5</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>41590</ID>
+    <StudID>5</StudID>
+    <Course>Mechanics</Course>
+    <Credit>0</Credit>
+    <Mark>6</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>20641</ID>
+    <StudID>5</StudID>
+    <Course>English</Course>
+    <Credit>0</Credit>
+    <Mark>6</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>51838</ID>
+    <StudID>5</StudID>
+    <Course>Oracle</Course>
+    <Credit>4</Credit>
+    <Mark>1</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>17510</ID>
+    <StudID>5</StudID>
+    <Course>OpenGL</Course>
+    <Credit>5</Credit>
+    <Mark>8</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>41288</ID>
+    <StudID>5</StudID>
+    <Course>History</Course>
+    <Credit>5</Credit>
+    <Mark>7</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>18353</ID>
+    <StudID>6</StudID>
+    <Course>Math</Course>
+    <Credit>8</Credit>
+    <Mark>9</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>12549</ID>
+    <StudID>6</StudID>
+    <Course>English</Course>
+    <Credit>0</Credit>
+    <Mark>6</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>26090</ID>
+    <StudID>6</StudID>
+    <Course>OpenGL</Course>
+    <Credit>8</Credit>
+    <Mark>2</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+  <Exam>
+    <ID>17261</ID>
+    <StudID>6</StudID>
+    <Course>History</Course>
+    <Credit>0</Credit>
+    <Mark>2</Mark>
+    <Date>11.02.2011 12:53:17</Date>
+  </Exam>
+</StudentsSet>

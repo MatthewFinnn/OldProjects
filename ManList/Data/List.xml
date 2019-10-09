@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Stud>
+    <Name>Anna Stepanova</Name>
+    <Age>19</Age>
+    <Course>3</Course>
+  </Stud>
+  <Stud>
+    <Name>Roman Emelyanenko</Name>
+    <Age>20</Age>
+    <Course>3</Course>
+  </Stud>
+  <Stud>
+    <Name>Den Denned</Name>
+    <Age>23</Age>
+    <Course>6</Course>
+  </Stud>
+  <Prof>
+    <Name>Anatoliy Aksenov</Name>
+    <Age>50</Age>
+    <Pubs>29</Pubs>
+  </Prof>
+  <Prof>
+    <Name>Dmitriy Antonov</Name>
+    <Age>54</Age>
+    <Pubs>34</Pubs>
+  </Prof>
+  <Stud>
+    <Name>Stud</Name>
+    <Age>99</Age>
+    <Course>3</Course>
+  </Stud>
+</List>

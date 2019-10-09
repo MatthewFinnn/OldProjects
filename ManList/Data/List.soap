@@ -1,0 +1,54 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Man[6]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ManList/ManList%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a1:Stud id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ManList/ManList%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<course>3</course>
+<name id="ref-9">Anna Stepanova</name>
+<age>19</age>
+<Man_x002B_name href="#ref-9"/>
+<Man_x002B_age>19</Man_x002B_age>
+</a1:Stud>
+<a1:Stud id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ManList/ManList%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<course>3</course>
+<name id="ref-10">Roman Emelyanenko</name>
+<age>20</age>
+<Man_x002B_name href="#ref-10"/>
+<Man_x002B_age>20</Man_x002B_age>
+</a1:Stud>
+<a1:Stud id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ManList/ManList%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<course>6</course>
+<name id="ref-11">Den Denned</name>
+<age>23</age>
+<Man_x002B_name href="#ref-11"/>
+<Man_x002B_age>23</Man_x002B_age>
+</a1:Stud>
+<a1:Prof id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ManList/ManList%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<pubs>29</pubs>
+<name id="ref-12">Anatoliy Aksenov</name>
+<age>50</age>
+<Man_x002B_name href="#ref-12"/>
+<Man_x002B_age>50</Man_x002B_age>
+</a1:Prof>
+<a1:Prof id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ManList/ManList%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<pubs>34</pubs>
+<name id="ref-13">Dmitriy Antonov</name>
+<age>54</age>
+<Man_x002B_name href="#ref-13"/>
+<Man_x002B_age>54</Man_x002B_age>
+</a1:Prof>
+<a1:Stud id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ManList/ManList%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<course>3</course>
+<name id="ref-14">Stud</name>
+<age>99</age>
+<Man_x002B_name href="#ref-14"/>
+<Man_x002B_age>99</Man_x002B_age>
+</a1:Stud>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

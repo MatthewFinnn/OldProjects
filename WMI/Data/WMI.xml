@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <subscription>
+    <ms_409 />
+    <ms_419 />
+  </subscription>
+  <DEFAULT>
+    <ms_409 />
+    <ms_419 />
+  </DEFAULT>
+  <MSAPPS11 />
+  <CIMV2>
+    <Security />
+    <power>
+      <ms_409 />
+      <ms_419 />
+    </power>
+    <ms_409 />
+    <ms_419 />
+    <Applications>
+      <WindowsParentalControls />
+      <Games>
+        <ms_409 />
+        <ms_419 />
+      </Games>
+    </Applications>
+  </CIMV2>
+  <Cli>
+    <MS_409 />
+    <MS_419 />
+  </Cli>
+  <nap />
+  <snmp>
+    <localhost />
+  </snmp>
+  <SecurityCenter2 />
+  <RSOP />
+  <WMI>
+    <ms_409 />
+    <ms_419 />
+  </WMI>
+  <directory>
+    <LDAP>
+      <ms_409 />
+      <ms_419 />
+    </LDAP>
+  </directory>
+  <Interop>
+    <ms_409 />
+    <ms_419 />
+  </Interop>
+  <SecurityCenter />
+  <Microsoft>
+    <SqlServer>
+      <ComputerManagement10>
+        <ms_419 />
+      </ComputerManagement10>
+    </SqlServer>
+    <HomeNet />
+  </Microsoft>
+  <aspnet>
+    <ms_419 />
+  </aspnet>
+</root>

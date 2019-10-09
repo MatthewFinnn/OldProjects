@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<ArtistsSet>
+  <Artists>
+    <ID>1</ID>
+    <Name>ATB</Name>
+    <Country>Germany</Country>
+    <Artist_x0020_foto>ATB.jpg</Artist_x0020_foto>
+  </Artists>
+  <Artists>
+    <ID>2</ID>
+    <Name>Nickelback</Name>
+    <Country>USA</Country>
+    <Artist_x0020_foto>Nickelback.jpg</Artist_x0020_foto>
+  </Artists>
+  <Artists>
+    <ID>3</ID>
+    <Name>Pirate Station</Name>
+    <Country>Russia</Country>
+    <Artist_x0020_foto>Pirate Station.jpg</Artist_x0020_foto>
+  </Artists>
+  <Albums>
+    <ID>1</ID>
+    <ArtistID>1</ArtistID>
+    <Album_x0020_name>Future Memories</Album_x0020_name>
+    <Year>2011-03-11T04:06:08.4421619+03:00</Year>
+    <Copies_x0020_sold>20000</Copies_x0020_sold>
+    <Album_x0020_foto>Future Memories.jpg</Album_x0020_foto>
+  </Albums>
+  <Albums>
+    <ID>2</ID>
+    <ArtistID>1</ArtistID>
+    <Album_x0020_name>No Silence</Album_x0020_name>
+    <Year>2011-03-11T04:06:08.443162+03:00</Year>
+    <Copies_x0020_sold>20000</Copies_x0020_sold>
+    <Album_x0020_foto>No Silence.jpg</Album_x0020_foto>
+  </Albums>
+  <Albums>
+    <ID>3</ID>
+    <ArtistID>1</ArtistID>
+    <Album_x0020_name>Trilogy</Album_x0020_name>
+    <Year>2011-03-11T04:06:08.443162+03:00</Year>
+    <Copies_x0020_sold>20000</Copies_x0020_sold>
+    <Album_x0020_foto>Trilogy.jpg</Album_x0020_foto>
+  </Albums>
+  <Albums>
+    <ID>4</ID>
+    <ArtistID>2</ArtistID>
+    <Album_x0020_name>All The Right Reasons</Album_x0020_name>
+    <Year>2011-03-11T04:06:08.443162+03:00</Year>
+    <Copies_x0020_sold>20000</Copies_x0020_sold>
+    <Album_x0020_foto>All The Right Reasons.jpg</Album_x0020_foto>
+  </Albums>
+  <Albums>
+    <ID>5</ID>
+    <ArtistID>2</ArtistID>
+    <Album_x0020_name>The Long Road</Album_x0020_name>
+    <Year>2011-03-11T04:06:08.443162+03:00</Year>
+    <Copies_x0020_sold>20000</Copies_x0020_sold>
+    <Album_x0020_foto>The Long Road.jpg</Album_x0020_foto>
+  </Albums>
+  <Albums>
+    <ID>6</ID>
+    <ArtistID>2</ArtistID>
+    <Album_x0020_name>Silver Side Up</Album_x0020_name>
+    <Year>2011-03-11T04:06:08.443162+03:00</Year>
+    <Copies_x0020_sold>20000</Copies_x0020_sold>
+    <Album_x0020_foto>Silver Side Up.jpg</Album_x0020_foto>
+  </Albums>
+</ArtistsSet>

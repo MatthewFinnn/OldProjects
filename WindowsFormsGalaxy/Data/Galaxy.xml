@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ArrayOfGalaxy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Galaxy Name="N A" PhotoFile="1.jpg" Type="NA" Discovered="2010-12-28T04:39:07.7002477+03:00" Thic="0.3" Rad="1" Luminosity="10000000" />
+  <Galaxy Name="N A" PhotoFile="1.jpg" Type="NA" Discovered="2010-12-28T04:39:07.7352497+03:00" Thic="0.3" Rad="1" Luminosity="10000000" />
+</ArrayOfGalaxy>

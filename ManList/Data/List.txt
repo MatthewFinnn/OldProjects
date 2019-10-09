@@ -1,0 +1,8 @@
+List of Man, v.1.0
+
+Stud: Anna Stepanova            ; Age: 19;  Course: 3
+Stud: Roman Emelyanenko         ; Age: 20;  Course: 3
+Stud: Den Denned                ; Age: 23;  Course: 6
+Prof: Anatoliy Aksenov          ; Age: 50;  Pubs: 29
+Prof: Dmitriy Antonov           ; Age: 54;  Pubs: 34
+Stud: Stud                      ; Age: 99;  Course: 3
